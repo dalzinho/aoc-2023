@@ -1,9 +1,8 @@
-package uk.co.mrdaly.adventofcode2023._1;
+package uk.co.mrdaly.adventofcode2023._01;
 
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-import java.util.Set;
 
 public class Trebuchet {
 

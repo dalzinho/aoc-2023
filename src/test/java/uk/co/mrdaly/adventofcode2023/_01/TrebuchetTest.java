@@ -1,8 +1,7 @@
-package uk.co.mrdaly.adventofcode2023._1;
+package uk.co.mrdaly.adventofcode2023._01;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-import org.junit.jupiter.api.TestTemplate;
 import uk.co.mrdaly.adventofcode2023.util.reader.StringFileReader;
 
 import java.io.IOException;
